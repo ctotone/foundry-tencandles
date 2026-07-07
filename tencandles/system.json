@@ -61,7 +61,6 @@
   "socket": true,
   "background": "systems/tencandles/art/banner.jpeg",
   "manifest": "https://raw.githubusercontent.com/ctotone/foundry/refs/heads/main/tencandles/system.json",
-  
   "download": "https://github.com/ctotone/foundry/archive/refs/tags/dev.zip",
   "flags": {}
 }
