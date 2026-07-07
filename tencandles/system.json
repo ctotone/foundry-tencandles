@@ -1,5 +1,5 @@
 {
-  "id": "tencandles",
+  "id": "tencandles-evilbram",
   "title": "Ten Candles Unofficial",
   "description": "An Unofficial system for the Ten Candles tragic horror storytelling game.",
   "version": "0.1.5",
@@ -22,11 +22,7 @@
   },
   "authors": [
     {
-      "name": "Don Goblin",
-      "flags": {}
-    },
-    {
-      "name": "Saiko",
+      "name": "Evilbram",
       "flags": {}
     }
   ],
@@ -35,6 +31,12 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+      "lang": "fr",
+      "name": "Francais",
+      "path": "lang/fr.json",
       "flags": {}
     },
     {
